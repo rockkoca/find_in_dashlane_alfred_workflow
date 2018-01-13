@@ -9,7 +9,7 @@ You can [Download workflow](https://github.com/rockkoca/find_in_dashlane_alfred_
 
 # Useage
 
-Activate Alfred, then type "df <keywords>" then press enter. Example: df google
+Activate Alfred, then type `df <keywords>` then press enter. Example: `df google`
   
 
   
